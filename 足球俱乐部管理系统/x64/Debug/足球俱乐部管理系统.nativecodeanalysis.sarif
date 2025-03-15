@@ -1,0 +1,123 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33523.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/24441/desktop/足球俱乐部管理系统/足球俱乐部管理系统/足球俱乐部管理系统.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "b805f9aec3edf15bcd7596482d2b89f84a739febb898cdcee950bbd7c5ea289b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/24441/desktop/足球俱乐部管理系统/足球俱乐部管理系统/staffmanagement.h"
+          },
+          "hashes": {
+            "sha-256": "bf213b2f0dca71353b8905c402d5eaaebab45c2bbe4b4f6b8501c0598e097b5c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/24441/desktop/足球俱乐部管理系统/足球俱乐部管理系统/coach.h"
+          },
+          "hashes": {
+            "sha-256": "14e576f965c0cc03fab3193a84b7f9c2af268bee8952bbea42406ca3ca4bd803"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/24441/desktop/足球俱乐部管理系统/足球俱乐部管理系统/staff.h"
+          },
+          "hashes": {
+            "sha-256": "f5e34165f0627c9c9f523735df7cada023b796e41e7b6ee1aef2c20974295189"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/24441/desktop/足球俱乐部管理系统/足球俱乐部管理系统/defender d.h"
+          },
+          "hashes": {
+            "sha-256": "f3191dc631834c5d34a49defcd84095264cbd468c00bff64d73b41ed91c12dfb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/24441/desktop/足球俱乐部管理系统/足球俱乐部管理系统/player.h"
+          },
+          "hashes": {
+            "sha-256": "365a53688d6c7d6789391bce65b4f95e43479e2da59bf9513bf65b8fe1c7dc82"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/24441/desktop/足球俱乐部管理系统/足球俱乐部管理系统/goalkeeper gk.h"
+          },
+          "hashes": {
+            "sha-256": "e8f404b97d20c3aab8121882fab062dfe1c64c3292a0dbb063d6f90482ddee88"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/24441/desktop/足球俱乐部管理系统/足球俱乐部管理系统/midfield m.h"
+          },
+          "hashes": {
+            "sha-256": "f5d4389e68b8f86e807a4c0827202a8480eea3982d3741d5663d04f9d805624e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/24441/desktop/足球俱乐部管理系统/足球俱乐部管理系统/striker f.h"
+          },
+          "hashes": {
+            "sha-256": "6406a4f32a57e943e82d84c32957b5a731d06a5d1455fda4ae97eaf9a8519187"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/24441/desktop/足球俱乐部管理系统/足球俱乐部管理系统/clubmanagement.h"
+          },
+          "hashes": {
+            "sha-256": "5cbcab503ec27c4b3e59d9461407d244dcc1d866f641fd565b51dd650618596f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/24441/desktop/足球俱乐部管理系统/足球俱乐部管理系统/club.h"
+          },
+          "hashes": {
+            "sha-256": "cffdd21307d64965c475422bc1d19f2dd19cf871d7d307416afa572b31e88b99"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/24441/desktop/足球俱乐部管理系统/足球俱乐部管理系统/messagemanagement.h"
+          },
+          "hashes": {
+            "sha-256": "55e1f5b5f80f1cf926cd86fe83773ba5633f084aa5d045f5dd40040aece7a57c"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\24441\Desktop\足球俱乐部管理系统\足球俱乐部管理系统\</FILEPATH>
+      <FILENAME>Staff.h</FILENAME>
+      <LINE>20</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 Staff::m_Id。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>Staff::{ctor}</FUNCTION>
+    <DECORATED>??0Staff@@QEAA@XZ</DECORATED>
+    <FUNCLINE>20</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Staff::m_Id</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

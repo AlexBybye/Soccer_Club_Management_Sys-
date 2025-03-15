@@ -1,0 +1,43 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33523.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/24441/desktop/足球俱乐部管理系统/足球俱乐部管理系统/club.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "393beead3c16fc2d6541aac17ea4b7baa9825b62defc0802067ce2c868c6bdef"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/24441/desktop/足球俱乐部管理系统/足球俱乐部管理系统/club.h"
+          },
+          "hashes": {
+            "sha-256": "cffdd21307d64965c475422bc1d19f2dd19cf871d7d307416afa572b31e88b99"
+          }
+        }
+      ]
+    }
+  ]
+}

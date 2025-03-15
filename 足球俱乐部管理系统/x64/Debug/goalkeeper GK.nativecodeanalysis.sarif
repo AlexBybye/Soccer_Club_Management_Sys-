@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33523.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/24441/desktop/足球俱乐部管理系统/足球俱乐部管理系统/goalkeeper gk.h"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "e8f404b97d20c3aab8121882fab062dfe1c64c3292a0dbb063d6f90482ddee88"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/24441/desktop/足球俱乐部管理系统/足球俱乐部管理系统/staff.h"
+          },
+          "hashes": {
+            "sha-256": "f5e34165f0627c9c9f523735df7cada023b796e41e7b6ee1aef2c20974295189"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/24441/desktop/足球俱乐部管理系统/足球俱乐部管理系统/player.h"
+          },
+          "hashes": {
+            "sha-256": "365a53688d6c7d6789391bce65b4f95e43479e2da59bf9513bf65b8fe1c7dc82"
+          }
+        }
+      ]
+    }
+  ]
+}

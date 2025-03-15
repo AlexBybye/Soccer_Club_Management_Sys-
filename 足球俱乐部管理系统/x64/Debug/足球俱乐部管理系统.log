@@ -1,0 +1,18 @@
+﻿  club.cpp
+  ClubManagement.cpp
+  ClubManagement.h
+  coach.cpp
+  defender D.cpp
+  goalkeeper GK.cpp
+  goalkeeper GK.h
+  MessageManagement.cpp
+  midfield M.cpp
+  StaffManagement.cpp
+  StaffManagement.h
+  striker F.cpp
+  足球俱乐部管理系统.cpp
+  正在生成代码...
+x64\Debug\ClubManagement.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+x64\Debug\goalkeeper GK.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+x64\Debug\StaffManagement.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  足球俱乐部管理系统.vcxproj -> C:\Users\24441\Desktop\足球俱乐部管理系统 - 副本\x64\Debug\足球俱乐部管理系统.exe
